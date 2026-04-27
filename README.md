@@ -1,9 +1,8 @@
 # BiblioFlow — Sistema Integral de Gestión Bibliotecaria
 
-**Autora:** Isabella UCC  
 **Repositorio:** [github.com/juanguillermomarinco/biblioflow](https://github.com/juanguillermomarinco/biblioflow)  
 **Contacto:** juanguillermomarinco@gmail.com
-
+**docs:** https://mintlify.wiki/Ju4nMarin/biblioflow
 ---
 
 ## Stack
